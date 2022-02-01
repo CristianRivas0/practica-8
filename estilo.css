@@ -1,0 +1,16 @@
+table.tabla1 {
+    border: red 1px solid;
+}
+table.tablaa {
+    border: red 1px solid;
+}
+td.tabla2 {
+    border: blue 1px solid;
+}
+table.tabla3 {
+    border: green 1px solid;
+    width: 600px;
+}
+td.c {
+    border: green 1px solid;
+}
